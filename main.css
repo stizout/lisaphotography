@@ -23,13 +23,10 @@ body {
     background-size: cover;
     background-image: url(https://scontent-lax3-2.xx.fbcdn.net/v/t1.0-9/19601105_10155577318247986_7541745268950246580_n.jpg?_nc_cat=0&oh=719e1230001485ab0fbcb5c0e777e3b0&oe=5B6DD193);
 }
-#boxShadow {
-	box-shadow: 10px 10px 5px #ccc;
-}
+
 #main {
-	display: block;
-	margin: 0 auto;
-	max-height: 532px;
+	width: 100%;
+	max-height: auto;
 }
 
 #bio {
